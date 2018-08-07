@@ -1,0 +1,20 @@
+input {
+  height: 20px;
+  width: 250px;
+}
+
+input.error {
+  border: 2px solid #c0392b;
+}
+
+input.success {
+  border: 2px solid #27ae60
+}
+
+span.error {
+  color: #c0392b
+}
+
+span.success {
+  color: #27ae60
+}

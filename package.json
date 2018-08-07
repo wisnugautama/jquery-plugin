@@ -1,0 +1,25 @@
+{
+  "name": "jquery-validate-email",
+  "version": "0.1.0",
+  "description": "jQuery email validation",
+  "main": "lib/validate-email.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hacktiv8/jquery-validate-email.git"
+  },
+  "keywords": [
+    "javascript",
+    "jquery",
+    "validation",
+    "email"
+  ],
+  "author": "Hacktiv8 <dev@hacktiv8.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hacktiv8/jquery-validate-email/issues"
+  },
+  "homepage": "https://github.com/hacktiv8/jquery-validate-email#readme"
+}
